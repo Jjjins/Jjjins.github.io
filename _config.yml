@@ -9,20 +9,20 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Awesome Kyoung99u"
+title                    : "Jin's development"
 title_separator          : "-"
-name                     : "Bokyoung Han"
-description              : "I love the most delicious food in world Pepperoni pizza!"
-url                      : "https://bokyounghan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Seongjin Lee"
+description              : "I want to be a good programmer"
+url                      : "https://jjjins.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "bokyounghan/bokyounghan.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Jjjins/Jjjins.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : Kyoung-99u-blog
+    shortname            : jinss
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -79,16 +79,16 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-122352654-1"
+    tracking_id          : "UA-123158689-1"
 
 
 # Site Author
 author:
-  name             : "Bokyoung Han"
+  name             : "Seongjin Lee"
   avatar           : "/assets/images/profile.png"
   bio              : "Very clever student in CSEE"
   location         : "The most strong place in the Universe 206"
-  email            : "150224@naver.com"
+  email            : "dl7844@naver.com"
   uri              :
   home             : "#" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bokyounghan"
+  github           : "Jjjins"
   gitlab           :
   google_plus      :
   keybase          :
